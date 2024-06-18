@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gonsormitro.github.io/sitemap
+Sitemap: https://gonsormitro.github.io/app/sitemap
+Sitemap: https://gonsormitro.github.io/assets/sitemap
+Sitemap: https://gonsormitro.github.io/css/sitemap
+Sitemap: https://gonsormitro.github.io/includes/sitemap
+Sitemap: https://gonsormitro.github.io/item/sitemap
+Sitemap: https://gonsormitro.github.io/src/sitemap
